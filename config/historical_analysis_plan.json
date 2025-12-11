@@ -1,0 +1,35 @@
+{
+  "phase_1_current_analysis": {
+    "description": "Analyze current POI data with metadata",
+    "output": "london_pois_with_metadata.csv",
+    "status": "Complete"
+  },
+  "phase_2_changeset_analysis": {
+    "description": "Query OSM changesets API for edit history",
+    "method": "Use OSM API: GET /api/0.6/changesets?bbox=...&time=...",
+    "output": "london_changesets.csv",
+    "status": "Ready to implement"
+  },
+  "phase_3_overpass_history": {
+    "description": "Use Overpass API with [date:\"YYYY-MM-DD\"] syntax",
+    "method": "Overpass queries with date filters",
+    "output": "london_pois_by_date.csv",
+    "status": "Requires Overpass server with history support"
+  },
+  "phase_4_full_history": {
+    "description": "Download and process OSM full history files",
+    "method": "Download from planet.openstreetmap.org/planet/full-history/",
+    "tools": [
+      "Osmium",
+      "Osmosis"
+    ],
+    "output": "london_full_history.osh",
+    "status": "Advanced - requires large downloads"
+  },
+  "phase_5_archived_snapshots": {
+    "description": "Compare archived planet file snapshots",
+    "method": "Download archived planet files from different years",
+    "output": "london_snapshots_comparison.csv",
+    "status": "Requires multiple large file downloads"
+  }
+}
