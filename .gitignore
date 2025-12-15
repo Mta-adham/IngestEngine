@@ -33,10 +33,18 @@ ENV/
 *.swo
 *~
 
-# Data files (large)
-data/*.csv
-data/*.json
-!data/.gitkeep
+# Data files (large - keep structure, ignore content)
+data/processed/*.csv
+data/processed/*.json
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.gpkg
+data/raw/*.shp
+data/exports/*.csv
+data/exports/*.json
+!data/processed/.gitkeep
+!data/raw/.gitkeep
+!data/exports/.gitkeep
 
 # Cache
 .cache/
@@ -54,3 +62,16 @@ Thumbs.db
 .env
 .env.local
 
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json

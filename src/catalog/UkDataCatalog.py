@@ -642,3 +642,25 @@ def create_complete_catalog():
             'name': 'Geolytix Retail Points',
             'provider': 'Geolytix',
             'url': 'https://geolytix.com/retail-points/',
+            'description': 'Retail point locations and attributes',
+            'category': 'ECONOMIC_BUSINESS',
+            'format': 'API/Download',
+            'update_frequency': 'Quarterly',
+            'historical_coverage': 'Current',
+            'cost': 'Free/Paid',
+            'auth_required': False,
+            'reliability': 'High',
+            'attributes': 'retail_point_id,location,retailer_name,geometry',
+            'join_keys': 'geometry,postcode',
+            'london_specific': False,
+            'world_model_relevance': 'Medium',
+            'notes': 'Retail location data - Confidence prior: 0.80'
+        },
+    ]
+    
+    return sources
+
+
+if __name__ == "__main__":
+    catalog = create_complete_catalog()
+    print(f"Created catalog with {len(catalog)} data sources")

@@ -1,17 +1,35 @@
 """
 POI Data Cleaner - Filter OSM-specific metadata from useful POI data
+=====================================================================
 
 Identifies and removes OSM-specific fields that aren't useful for building
 a world model, keeping only the actual POI information.
+
+Usage:
+    from src.poi_data_cleaner import POIDataCleaner
+    
+    cleaner = POIDataCleaner()
+    cleaned_df = cleaner.clean_data(df)
 """
 
+# ============================================
+# IMPORTS
+# ============================================
 import pandas as pd
 import os
 from typing import List, Dict, Set
 
 
+# ============================================
+# CLASS DEFINITION
+# ============================================
+
 class POIDataCleaner:
     """Clean POI data by removing OSM-specific metadata"""
+    
+    # ============================================
+    # CONSTANTS - OSM METADATA PATTERNS
+    # ============================================
     
     # OSM-specific fields to exclude (not useful for world model)
     # NOTE: Keeping geometry, extraction metadata, source/ref fields, and dates per user request
@@ -84,9 +102,17 @@ class POIDataCleaner:
         '^fhrs:',  # Food hygiene rating
     ]
     
+    # ============================================
+    # INITIALIZATION
+    # ============================================
+    
     def __init__(self):
         """Initialize the data cleaner"""
         pass
+    
+    # ============================================
+    # IDENTIFICATION METHODS
+    # ============================================
     
     def identify_osm_metadata(self, df: pd.DataFrame) -> Set[str]:
         """
@@ -135,6 +161,10 @@ class POIDataCleaner:
                     break
         
         return useful_columns
+    
+    # ============================================
+    # CLEANING METHODS
+    # ============================================
     
     def clean_data(self, df: pd.DataFrame, 
                    keep_osm_metadata: bool = False,

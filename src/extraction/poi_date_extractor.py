@@ -8,8 +8,9 @@ import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from src.poi_extractor import POIExtractor
-from src.poi_history_tracker import OSMHistoryTracker
+from src.extraction.poi_extractor import POIExtractor
+# OSMHistoryTracker moved to scripts/poi_history_tracker.py
+# Import directly if needed: from scripts.poi_history_tracker import OSMHistoryTracker
 import pandas as pd
 from datetime import datetime
 import argparse
@@ -27,7 +28,9 @@ class POIDateExtractor:
         """
         self.place = place
         self.extractor = POIExtractor(place)
-        self.tracker = OSMHistoryTracker(place)
+        # OSMHistoryTracker moved to scripts/ - import if needed
+        # self.tracker = OSMHistoryTracker(place)
+        self.tracker = None  # Optional - can be set later if needed
     
     def extract_pois_at_date(self, target_date: str, 
                             poi_types: list = None,
@@ -197,7 +200,7 @@ class POIDateExtractor:
             return {}
         
         # Compare using change detector
-        from src.poi_change_detector import POIChangeDetector
+        from src.extraction.poi_change_detector import POIChangeDetector
         detector = POIChangeDetector(self.place)
         
         changes = detector.compare_snapshots(pois_date1, pois_date2)

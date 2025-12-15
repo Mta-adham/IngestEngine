@@ -9,7 +9,11 @@ import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from src.poi_change_detector import POIChangeDetector
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from src.extraction.poi_change_detector import POIChangeDetector
 import pandas as pd
 
 

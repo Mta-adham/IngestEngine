@@ -1,8 +1,25 @@
 """
 Point of Interest (POI) Extractor for London using OpenStreetMap
-This script extracts various types of POIs from OpenStreetMap for London.
+================================================================
+
+Extracts various types of POIs from OpenStreetMap for London.
+
+Features:
+- Extract POIs by type (restaurants, cafes, hotels, museums, parks, shops, etc.)
+- Extract all OSM attributes per POI
+- Export to CSV/JSON with coordinates, descriptions, timestamps
+
+Usage:
+    from src.poi_extractor import POIExtractor
+    
+    extractor = POIExtractor(place="London, UK")
+    restaurants = extractor.extract_restaurants()
+    all_pois = extractor.extract_all_pois()
 """
 
+# ============================================
+# IMPORTS
+# ============================================
 import osmnx as ox
 import pandas as pd
 from typing import List, Dict, Optional
@@ -14,8 +31,16 @@ from datetime import datetime
 warnings.filterwarnings('ignore', category=pd.errors.PerformanceWarning)
 
 
+# ============================================
+# CLASS DEFINITION
+# ============================================
+
 class POIExtractor:
     """Extract Points of Interest from OpenStreetMap for London"""
+    
+    # ============================================
+    # INITIALIZATION
+    # ============================================
     
     def __init__(self, place: str = "London, UK"):
         """
@@ -25,6 +50,10 @@ class POIExtractor:
             place: Name of the place to extract POIs from (default: "London, UK")
         """
         self.place = place
+    
+    # ============================================
+    # UTILITY METHODS
+    # ============================================
     
     @staticmethod
     def _extract_coordinates(geom):
@@ -101,6 +130,10 @@ class POIExtractor:
             print(f"Error: {str(e)}")
             return pd.DataFrame()
     
+    # ============================================
+    # POI EXTRACTION METHODS
+    # ============================================
+    
     def extract_restaurants(self) -> pd.DataFrame:
         """Extract restaurants from London"""
         return self.extract_pois_by_tag({"amenity": "restaurant"}, "restaurants")
@@ -159,6 +192,10 @@ class POIExtractor:
         if not all_pois:
             return pd.DataFrame()
         
+        # ============================================
+        # Combine and standardize all POI DataFrames
+        # ============================================
+        
         # Get all unique columns from all DataFrames
         all_columns = set()
         for df in all_pois:
@@ -195,6 +232,10 @@ class POIExtractor:
         combined_df = combined_df[final_column_order]
         
         return combined_df
+    
+    # ============================================
+    # EXPORT METHODS
+    # ============================================
     
     def save_to_csv(self, df: pd.DataFrame, filename: str = "london_pois.csv"):
         """

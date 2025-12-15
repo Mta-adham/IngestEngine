@@ -13,8 +13,9 @@ import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from src.poi_extractor import POIExtractor
-from src.poi_history_tracker import OSMHistoryTracker
+from src.extraction.poi_extractor import POIExtractor
+# OSMHistoryTracker moved to scripts/poi_history_tracker.py
+# Import directly if needed: from scripts.poi_history_tracker import OSMHistoryTracker
 
 
 class POIChangeDetector:
@@ -29,7 +30,9 @@ class POIChangeDetector:
         """
         self.place = place
         self.extractor = POIExtractor(place)
-        self.tracker = OSMHistoryTracker(place)
+        # OSMHistoryTracker moved to scripts/ - import if needed
+        # self.tracker = OSMHistoryTracker(place)
+        self.tracker = None  # Optional - can be set later if needed
     
     def load_current_pois(self, filepath: str = None) -> pd.DataFrame:
         """

@@ -16,8 +16,9 @@ import json
 # Add parent directory to path for imports
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from src.poi_extractor import POIExtractor
-from src.poi_history_tracker import OSMHistoryTracker
+from src.extraction.poi_extractor import POIExtractor
+# Note: poi_history_tracker is now in scripts/ - import directly if needed
+# from poi_history_tracker import OSMHistoryTracker
 
 
 def analyze_current_with_metadata():
