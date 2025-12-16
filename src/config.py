@@ -64,3 +64,44 @@ PROGRESS_BAR = True  # Show progress bar
 # ============================================
 LOG_LEVEL = "INFO"
 
+# ============================================
+# API KEYS
+# ============================================
+# Load from environment variables or use defaults
+# To set: export COMPANIES_HOUSE_API_KEY="your-key" in terminal
+# Or create a .env file with the keys
+
+# Companies House API
+# Get your key from: https://developer.company-information.service.gov.uk/
+COMPANIES_HOUSE_API_KEY = os.environ.get(
+    'COMPANIES_HOUSE_API_KEY', 
+    'f34ba78d-1219-4dce-9aaf-9bdc31ebc99f'  # Default key for "world" project
+)
+
+# TfL (Transport for London) API
+# Get your key from: https://api-portal.tfl.gov.uk/signup
+TFL_APP_ID = os.environ.get('TFL_APP_ID', '')
+TFL_APP_KEY = os.environ.get('TFL_APP_KEY', '')
+
+# EPC (Energy Performance Certificates) API
+# Register at: https://epc.opendatacommunities.org/
+EPC_EMAIL = os.environ.get('EPC_EMAIL', 'manal@zone13.ai')
+EPC_API_KEY = os.environ.get('EPC_API_KEY', '645cef978fc53f6b16da5e76ddaf653144e205d5')
+
+# Ordnance Survey DataHub API
+# Register at: https://osdatahub.os.uk/
+OS_API_KEY = os.environ.get('OS_API_KEY', 'vA1b2tAgw0372dME441EpgYdQb1jTHIQ')
+OS_API_SECRET = os.environ.get('OS_API_SECRET', 'Zkp8uSAt7VBQSbAo')
+
+# ============================================
+# API RATE LIMITS (requests per minute)
+# ============================================
+COMPANIES_HOUSE_RATE_LIMIT = 120  # 600 per 5 min
+TFL_RATE_LIMIT = 500
+POLICE_UK_RATE_LIMIT = 900  # 15 per second
+EPC_RATE_LIMIT = 60
+NHS_RATE_LIMIT = 120
+ONS_RATE_LIMIT = 60
+OS_RATE_LIMIT = 100
+EA_RATE_LIMIT = 120
+

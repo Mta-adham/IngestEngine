@@ -1,0 +1,332 @@
+station_id,label,river_name,catchment,town,latitude,longitude,easting,northing,status,date_opened
+2804TH,"Pinner, Eastcote Road",River Pinn,Pinn,Pinner,51.589297,-0.381167,512244,189069,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+3400TH,Kingston,River Thames,Thames from Hurley to Teddington,Kingston Upon Thames,51.415005,-0.308869,517700,169800,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1983-01-01
+5380TH,"Walthamstow, Low Hall",River Lee,Lower Lee,Walthamstow,51.574894,-0.043637,535668,188039,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1981-01-01
+2870TH,Denham Colne,River Colne,Colne (Lower),Denham,51.56631,-0.483905,505180,186360,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1986-01-01
+5376TH,Chingford,Ching Brook,Lower Lee,Chingford,51.619051,0.008836,539169,193048,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2009-08-06
+2896TH,"Pound Mill, Staines",Wraysbury River,Colne (Lower),Staines,51.43615,-0.514892,503326,171841,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1993-01-01
+3826TH,Edgware Hospital,Silk Stream,Brent (Brooks),Edgware,51.607093,-0.271414,519800,191222,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+4369TH,Winsford Road,River Pool,London,Catford,51.435695,-0.027404,537210,172590,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+5329TH,"Waltham Abbey, Sewardstone Road",Cobbins Brook,Lower Lee,Waltham Abbey,51.681471,0.004958,538710,199982,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1981-01-01
+5442TH,Shonks Mill Bridge,River Roding,Rodding,Navestock Heath,51.661693,0.209122,552890,198190,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2004-01-01
+2819TH,Colney Street,River Ver,Colne (Upper),Colney Street,51.704664,-0.336052,515077,201969,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+2902TH,Chertsey Lock,River Thames,Thames from Hurley to Teddington,Chertsey,51.390617,-0.48637,505413,166818,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+4150TH,Beddington Park,River Wandle,London,Beddington,51.373583,-0.138986,529630,165480,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+2885TH,West Drayton,River Colne,Colne (Lower),West Drayton,51.500923,-0.482762,505410,179090,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+3815TH,Hampstead Suburb,Mutton Brook,Brent (Brooks),Finchley,51.584844,-0.180888,526130,188900,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2001-01-01
+5322TH,"Cheshunt, Trinity Lane",Theobalds Brook,Lower Lee,Waltham Cross,51.691657,-0.027263,536452,201054,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+3629TH,"Northholt, Yeading East",Yeading Brook (Eastern Arm),Crane,Northolt,51.548783,-0.397836,511188,184538,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1988-01-01
+5318TH,"Cheshunt, Windmill Lane",Small River Lee,Lower Lee,Cheshunt,51.703222,-0.022505,536746,202349,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+0006,Westminster,Thames Tideway,London,Westminster,51.501216,-0.12385,530320,179700,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1989-01-03
+2808TH,Radlett,Radlett Brook,Colne (Upper),Radlett,51.682315,-0.315607,516547,199516,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2001-01-01
+3404TH,Trowlock Island,River Thames,Thames from Hurley to Teddington,Trowlock Island,51.423993,-0.308538,517700,170800,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2003-01-01
+5427TH,Chipping Ongar,Cripsey Brook,Rodding,Chipping Ongar,51.709101,0.239586,554835,203526,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1981-01-01
+2844TH,"Hemel Hempstead, Old Fishery Lane",River Bulbourne,Colne (Upper),Hemel Hempstead,51.744674,-0.49654,503896,206178,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+4381TH,Gosshill Road,Kyd Brook,London,Bickley,51.403702,0.060218,543400,169200,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+4165TH,Hackbridge,River Wandle,London,Hackbridge,51.377064,-0.160112,528150,165830,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+3804TH,Whetstone,Dollis Brook,Brent (Brooks),Totteridge,51.623491,-0.185411,525710,193190,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+4317TH,Bishops Avenue,River Ravensbourne,London,Bromley,51.401378,0.028483,541200,168880,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+3102TH,Molesey Lock,River Thames,Thames from Hurley to Teddington,East Molesey,51.406476,-0.349558,514892,168787,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1996-07-03
+5420TH,High Ongar,River Roding,Rodding,High Ongar,51.713888,0.259177,556172,204100,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1963-01-01
+5480TH,Redbridge,River Roding,Rodding,Wanstead,51.576239,0.040575,541499,188348,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1981-01-01
+3350TH,Ewell,Hogsmill River,London,Ewell,51.355767,-0.255182,521590,163300,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1988-01-01
+2936TH,Guildford Street,Chertsey Bourne,Bournes,Chertsey,51.389272,-0.506291,504030,166640,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+4045TH,North Cheam,Pyl Brook,London,North Cheam,51.374843,-0.208335,524800,165500,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+2893TH,Stanwell Mill,River Colne,Colne (Lower),Longford,51.466242,-0.501779,504169,175206,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1988-01-01
+4310TH,Hayes Lane,River Ravensbourne,London,Bromley,51.392901,0.019484,540600,167920,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1988-01-01
+4370TH,Catford Hill,River Ravensbourne,London,Catford,51.441442,-0.026869,537230,173230,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+5369TH,"Edmonton, Silver Street",Pymmes Brook,Lower Lee,Edmonton,51.615727,-0.065253,534050,192540,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+2859TH,Rickmansworth,River Chess,Colne (Upper),Rickmansworth,51.641989,-0.46125,506573,194809,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+2889TH,Uxbridge,River Pinn,Pinn,Cowley,51.533611,-0.47115,506140,182742,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+3823TH,"Stanmore, Wolverton Road",Edgware Brook,Brent (Brooks),Stanmore,51.610531,-0.313052,516908,191537,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1999-01-01
+0007,Tower Pier,Thames Tideway,London,Tower Pier,51.506753,-0.078706,533437,180397,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1988-01-01
+3290TH,Esher,River Mole,Mole,Esher,51.381714,-0.377493,513010,165990,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+3286TH,Downside Bridge,River Mole,Mole,Stoke D'abernon,51.323836,-0.41269,510700,159500,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+4180_w2TH,Wandle Park Side Channel,River Wandle,London,Merton,51.419659,-0.18127,526560,170530,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1998-01-01
+5362TH,New Barnet,Pymmes Brook,Lower Lee,Cockfosters,51.650298,-0.164059,527113,196208,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2001-01-01
+2882TH,"Iver, Clisbys Bridge",River Colne,Colne (Lower),Cowley,51.529235,-0.488741,504930,182230,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+3660TH,Cranford Park,River Crane,Crane,Cranford,51.488753,-0.412558,510312,177840,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+E15240,Otford,River Darent,Darent,Otford,51.304292,0.18632,552500,158400,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1990-04-10
+3110TH,Staines Ash,River Ash,Ash (Middx),Staines,51.440376,-0.512035,503515,172315,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1994-01-01
+3626TH,"Harrow, Thistledene Avenue",The Roxbourne,Crane,Northolt,51.561936,-0.379325,512439,186029,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+4139TH,Waddon Ponds,River Wandle,London,Beddington,51.371312,-0.120688,530910,165260,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1986-01-01
+3838TH,Kenton Lane,Wealdstone Brook,Brent (Brooks),Kenton,51.587068,-0.307266,517369,188937,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+3401TH,Teddington Lock,River Thames,Thames from Hurley to Teddington,Teddington,51.429566,-0.318416,516999,171404,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1988-01-01
+3245TH,Redhill,Redhill Brook,Mole,Redhill,51.239844,-0.166451,528090,150560,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+3089TH,Brooklands,River Wey,Wey,Byfleet,51.346115,-0.465049,507000,161900,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2002-01-01
+3609TH,"Harrow, Village Way",Yeading Brook,Crane,North Harrow,51.57755,-0.380271,512335,187764,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+2841TH,"Hemel Hempstead, Bury Mill",River Gade,Colne (Upper),Hemel Hempstead,51.757619,-0.475391,505326,207648,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+4192TH,Summerstown,River Wandle,London,Merton,51.428571,-0.187677,526090,171510,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1999-01-01
+4314TH,Magpie Hall Lane,River Ravensbourne,London,Hayes,51.385199,0.047688,542586,167118,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+E15250,Hawley,River Darent,Darent,Hawley,51.423959,0.230865,555200,171800,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1989-01-01
+5522TH,Romford,River Rom,Beam and Ingrebourne,Romford,51.583879,0.172001,550580,189460,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+2890TH,"Uxbridge, Philpots Bridge",River Pinn,Pinn,Yiewsley,51.517498,-0.476763,505788,180942,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+2989TH,Addlestone,Addlestone Bourne,Bournes,Addlestone,51.374167,-0.478479,506000,165000,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1990-01-01
+2886TH,"Pinner, Moss Close",River Pinn,Pinn,Pinner,51.598796,-0.376829,512521,190132,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+3369TH,Worcester Road,Hogsmill River,London,Tolworth,51.375687,-0.264339,520900,165500,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1999-01-01
+3820TH,Brent Cross,River Brent,Brent,Golders Green,51.577539,-0.217549,523610,188025,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1980-07-08
+3850TH,"Brent, Monks Park",River Brent,Brent,Willesden,51.551558,-0.267837,520194,185052,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+3880TH,Hanwell,River Brent,Brent,Norwood Green,51.508638,-0.342569,515121,180159,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+4389TH,Manor House Gardens,River Quaggy,London,Hither Green,51.45563,0.00613,539480,174870,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+2809TH,Mimmshall Brook,Mimmshall Brook,Colne (Upper),South Mimms,51.706896,-0.217824,523240,202410,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2001-01-01
+4091TH,Barnes,Beverley Brook,London,Barnes,51.47009,-0.245065,521990,176030,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+E15260,Crayford,River Cray,Darent,Crayford,51.450401,0.173287,551110,174620,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1989-01-01
+5541TH,Hornchurch_Bretons Farm,River Beam,Beam and Ingrebourne,Elm Park,51.546517,0.183966,551533,185330,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1981-01-01
+0009,Richmond,Thames Tideway,London,Richmond,51.462258,-0.316193,517070,175043,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1989-01-01
+5355TH,"Enfield, The Chine",Salmon Brook,Lower Lee,Winchmore Hill,51.643461,-0.095003,531910,195570,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2002-01-01
+4382TH,Woodlands Road,Kyd Brook,London,Bickley,51.405031,0.056251,543120,169340,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+5190TH,"Roydon, Glen Faba",River Stort,Stort,Roydon,51.764828,0.015113,539156,209271,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+4378TH,Eynsford Close,Kyd Brook,London,Petts Wood,51.383249,0.072664,544330,166950,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+2802TH,Waxwell Lane,River Pinn,Pinn,Pinner,51.602909,-0.384264,511996,190578,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+5308TH,"Cheshunt, Rosedale Way",Rags Brook,Lower Lee,Flamstead End,51.713361,-0.060582,534085,203406,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+3090TH,Weybridge,River Wey,Wey,Weybridge,51.37248,-0.466322,506850,164830,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1979-01-01
+4020TH,Worcester Park,Beverley Brook,London,Worcester Park,51.380413,-0.243611,522330,166060,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+4050TH,Morden Park,Pyl Brook,London,Morden,51.391152,-0.216322,524200,167300,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+4080TH,Wimbledon Common,Beverley Brook,London,Kingston Vale,51.431619,-0.25215,521600,171740,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+2937TH,Free Prae Road,Chertsey Bourne,Bournes,Chertsey,51.386331,-0.501357,504380,166320,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+4063TH,Kings College,Pyl Brook,London,New Malden,51.397462,-0.230955,523165,167977,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+2821TH,Borehamwood,Borehamwood Brook,Colne (Upper),Green Street,51.668568,-0.287687,518513,198032,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2009-08-06
+5327TH,Waltham Abbey,Cobbins Brook,Lower Lee,Waltham Abbey,51.691132,0.015788,539429,201077,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2001-01-01
+5470TH,Loughton,River Roding,Rodding,Loughton,51.640481,0.081584,544137,195572,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1981-01-01
+2900TH,Staines,River Thames,Thames from Hurley to Teddington,Staines,51.431611,-0.512248,503520,171340,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1990-01-01
+3075TH,Send,East Clandon Stream,Wey,Burntcommon,51.287835,-0.505999,504280,155360,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+2849TH,Croxley Green,River Gade,Colne (Upper),Croxley Green,51.645553,-0.436992,508243,195241,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+4326TH,Beckenham Park,River Ravensbourne,London,Grove Park,51.422952,-0.007672,538620,171210,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2002-01-01
+4386TH,Chinbrook Park,River Quaggy,London,Grove Park,51.431438,0.027081,541010,172220,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2001-01-01
+2810TH,North Mymms,Mimmshall Brook,Colne (Upper),Water End,51.718066,-0.219123,523120,203650,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+3839TH,Wembley,Wealdstone Brook,Brent (Brooks),Wembley,51.562196,-0.27948,519359,186216,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+E15280,Lamorbey Park,Shuttle Tributary  Cray,Darent,Sidcup,51.440152,0.113674,547001,173359,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-04-18
+3280TH,Leatherhead,River Mole,Mole,Leatherhead,51.294985,-0.336089,516110,156410,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1986-01-01
+5425TH,Moreton,Cripsey Brook,Rodding,Moreton,51.739256,0.219552,553349,206837,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+5378TH,Walthamstow,Ching Brook,Lower Lee,Walthamstow,51.603395,-0.012274,537755,191267,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2001-01-01
+3650TH,"Yeading, Brookside Road",Yeading Brook,Crane,Southall,51.518702,-0.391757,511683,181202,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+3680TH,Marsh Farm,River Crane,Crane,Twickenham,51.448604,-0.339937,515455,173487,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+2898TH,Staines Trading Estate,River Colne,Colne (Lower),Staines,51.437123,-0.512241,503508,171953,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1998-01-01
+4345TH,Beckenham,The Beck,London,Beckenham,51.406058,-0.024366,537510,169300,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+3100TH,Walton,River Thames,Thames from Hurley to Teddington,Walton-On-Thames,51.3919,-0.421389,509931,167056,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1990-01-01
+3892TH,Brentford,River Brent,Brent,Brentford,51.48248,-0.312323,517287,177298,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2009-08-06
+4159TH,Carshalton Ponds,River Wandle,London,Carshalton,51.367034,-0.162812,527990,164710,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1980-01-01
+4189TH,Longley Road,River Graveney,London,Merton,51.421965,-0.173411,527100,170800,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1988-01-01
+E15350,Hall Place,River Cray,Darent,Coldblow,51.445998,0.158543,550100,174100,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1999-01-01
+0001,Silvertown,Thames Tideway,London,Silvertown,51.497504,0.052616,542579,179616,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1989-01-01
+2904TH,Shepperton Lock,River Thames,Thames from Hurley to Teddington,Weybridge,51.382892,-0.458071,507400,166000,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+2891TH,Yiewsley,Frays River,Colne (Lower),Yiewsley,51.509078,-0.47713,505782,180005,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+4182TH,Thornton Heath,Norbury Brook,London,South Norwood,51.394765,-0.097302,532470,167910,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2002-01-01
+2887TH,"Ickenham, Swakeleys Road",River Pinn,Pinn,Ickenham,51.565274,-0.452775,507340,186290,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+3635TH,"Hillingdon, Charville Lane",Yeading Brook,Crane,Hillingdon,51.541775,-0.418198,509793,183728,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1993-01-01
+3115TH,Knowle Green,River Ash,Ash (Herts),Staines,51.430935,-0.496618,504608,171287,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2002-01-01
+2814TH,London Colney,River Colne,Colne (Upper),London Colney,51.719476,-0.289861,518230,203690,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+5390TH,Lea Bridge,River Lee,Lower Lee,Stoke Newington,51.567832,-0.051025,535177,187240,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1991-01-01
+5459TH,Abridge,River Roding,Rodding,Abridge,51.65178,0.119024,546691,196903,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2009-08-06
+2880TH,Willowbank,River Colne,Colne (Lower),Denham,51.559236,-0.484082,505184,185573,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+2846TH,"Hemel Hempstead, Two Waters Road",River Bulbourne,Colne (Upper),Hemel Hempstead,51.741057,-0.47337,505504,205809,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+3870TH,"Greenford, Costons Lane",River Brent,Brent,Greenford,51.527366,-0.344873,514914,182238,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1988-01-01
+4383TH,Lower Camden,Kyd Brook,London,Bickley,51.411956,0.051097,542740,170100,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+3806TH,North Finchley,Dollis Brook,Brent (Brooks),Totteridge,51.614894,-0.189437,525455,192227,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+4319TH,Bromley South,River Ravensbourne,London,Bromley,51.400276,0.019377,540570,168740,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1992-01-01
+3104TH,Thames Ditton Island,River Thames,Thames from Hurley to Teddington,Long Ditton,51.393384,-0.331228,516200,167360,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2003-01-01
+5313TH,Lower Nazeing,Nazeing Brook,Lower Lee,Lower Nazeing,51.735268,0.019953,539581,205993,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+2803TH,"Pinner, Avenue Road",River Pinn,Pinn,Pinner,51.597129,-0.381769,512183,189939,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+5339TH,"Enfield, Ordance Road",Small River Lee,Lower Lee,Sewardstone,51.671889,-0.019618,537040,198870,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1981-01-01
+2895TH,Staines Moor,Wraysbury River,Colne (Lower),Hythe End,51.45237,-0.520468,502902,173637,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1996-01-01
+4372TH,Kydbrook Close,Kyd Brook,London,Petts Wood,51.382923,0.075811,544550,166920,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+4186TH,Abercairn Road,River Graveney,London,Streatham,51.416099,-0.143444,529200,170200,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+2901TH,Penton Hook,River Thames,Thames from Hurley to Teddington,Laleham,51.414528,-0.499731,504429,169458,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+4040TH,Motspur Park,Beverley Brook,London,New Malden,51.393329,-0.241392,522450,167500,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2002-01-01
+4070TH,New Malden,Beverley Brook,London,New Malden,51.410502,-0.247204,522000,169400,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2000-01-01
+5364TH,Arnos Park,Pymmes Brook,Lower Lee,Southgate,51.616543,-0.126609,529800,192520,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+5546TH,Harold Park,River Ingrebourne,Beam and Ingrebourne,Harold Wood,51.599864,0.249585,555900,191400,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2001-01-01
+0003,Charlton,Thames Tideway,London,Charlton,51.496948,0.020435,540347,179492,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1989-01-01
+4327TH,Downham Lane,Spring Brook,London,Grove Park,51.424134,-0.003161,538930,171350,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2007-01-01
+2807TH,Ruislip,River Pinn,Pinn,Ruislip,51.58043,-0.426065,509155,188015,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2009-08-06
+3390TH,Kingston Hogsmill,Hogsmill River,London,Kingston Upon Thames,51.405736,-0.302166,518190,168780,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+4320TH,Bromley,River Ravensbourne,London,Bromley,51.394835,0.016838,540410,168130,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2006-01-01
+4380TH,Hazelmere Road,Kyd Brook,London,Petts Wood,51.39528,0.078815,544720,168300,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+5349TH,"Enfield, Albany Park",Turkey Brook,Lower Lee,Enfield Wash,51.668821,-0.035081,535980,198500,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+3101TH,Sunbury  Lock,River Thames,Thames from Hurley to Teddington,Sunbury,51.399708,-0.4156,510315,167933,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+2830TH,Watford,River Colne,Colne (Upper),Watford,51.670654,-0.380235,512108,198118,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+3829TH,Colindale,Silk Stream,Brent (Brooks),Hendon,51.591209,-0.244516,521705,189500,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1984-01-01
+3270TH,Dorking,River Mole,Mole,Dorking,51.238425,-0.311198,517990,150160,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+2892TH,Poyle,Poyle Channel,Colne (Lower),Poyle,51.477287,-0.51406,503291,176417,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1987-01-01
+2888TH,"Uxbridge, Hercies Road",River Pinn,Pinn,Uxbridge,51.547893,-0.46447,506570,184340,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+3822TH,"Edgware, Deans Brook",Deans Brook,Brent (Brooks),Edgware,51.617793,-0.26653,520110,192420,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1999-01-01
+4335TH,Upper Elmers End,St James Stream,London,Eden Park,51.391876,-0.03662,536700,167700,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1997-01-01
+4180_w1TH,Wandle Park Main Channel,River Wandle,London,Merton,51.419659,-0.18127,526560,170530,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1985-01-01
+2881TH,"Uxbridge, Fountains Mill",Frays River,Colne (Lower),Uxbridge,51.549497,-0.482704,505302,184492,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1995-01-01
+5357TH,Edmonton Green,Salmon Brook,Lower Lee,Edmonton,51.626104,-0.060318,534361,193703,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1981-01-01
+3625TH,"Hillingdon, Gutteridge Wood",Yeading Brook,Crane,Hillingdon,51.547719,-0.420185,509641,184386,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1993-01-01
+4087TH,Arabella Drive,,,,51.465498,-0.253664,521405,175505,,
+DIFF_TB3_TB1,Silvertown and Tower Pier,,,,51.494354,0.026414,540770,179215,,
+4391TH,Mottingham Lane FD,,,,51.442857,0.029817,541165,173495,,
+3091TH,River Wey at Byfleet Mill,,,,51.335047,-0.46104,507305,160675,,
+DIFF_TB3_TB9,Erith TG and Tower Pier,,,,51.494354,0.026414,540770,179215,,
+DIFF_WestUR_EastDR,West UR and East DR,,,,51.494354,0.026414,540770,179215,,
+DCB_UR,Dartford Creek Barrier UR,,,,51.478413,0.2166,554025,177825,,
+5562TH,Frog Island Tidal Sluice FD,,,,51.507967,0.174152,550980,181023,,
+5312TH,Kiora Radial Gates,,,,51.728882,-0.008439,537640,205229,,
+BB_EAST_UR,Barking Barrier,,,,51.515594,0.097044,545605,181715,,
+3401TH_TAOD,Teddington Lock Tail (AOD),,,,51.429574,-0.318329,517005,171405,,
+0018,"['Erith Deep Wharf', 'Erith Deep Wharf TL']",Thames Tideway,"['Loddon', 'London']",Erith,51.481798,0.186705,551938,178139,"['http://environment.data.gov.uk/flood-monitoring/def/core/statusActive', 'http://environment.data.gov.uk/flood-monitoring/def/core/statusSuspended']","['1988-04-14', '2000-01-01']"
+3004TH,River Wey at Walsham Weir,,,,51.30878,-0.494918,505005,157705,,
+4063TH,Pyl Brook at West Barnes (Kings College),,,,51.396102,-0.24337,522305,167805,,
+E15460,Ruxley Pits Outfall RL,,,,51.412972,0.120315,547550,170350,,
+DCB_DR,Dartford Creek Barrier DR,,,,51.478413,0.2166,554025,177825,,
+2879_w1TH,Denham Lodge,River Misbourne,Colne (Lower),Denham,51.567599,-0.49112,504677,186493,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1986-11-01
+5550TH,Gaynes Park,River Ingrebourne,Beam and Ingrebourne,Upminster,51.553141,0.236647,555163,186177,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1970-11-01
+3269TH,Brockham FWS,,,,51.233732,-0.288379,519595,149675,,
+38_BRENT_RES,Brent Reservoir,,,,51.570831,-0.245027,521724,187233,,
+3078TH,Hoe Stream at Woking,,,,51.306994,-0.537112,502068,157447,,
+E15230,Westerham,River Darent,Darent,Westerham,51.266809,0.065457,544193,153988,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1994-09-27
+4092TH,Westfields Sluice FD,,,,51.468151,-0.250683,521605,175805,,
+5563TH,Havering Tidal Sluice FD,,,,51.510944,0.165849,550394,181337,,
+BB_WEST_DR,Barking Barrier,,,,51.515594,0.097044,545605,181715,,
+3086TH,Newark Weir,River Wey,Wey,Newark,51.307409,-0.510113,503949,157531,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1999-07-01
+E26233,MARDYKE SLUICE PURFLEET,,,,51.486254,0.228518,554826,178722,,
+4387TH,Eltham Palace Road FD,,,,51.45198,0.032669,541335,174515,,
+2879_w2TH,Denham Lodge,,,,51.569085,-0.489873,504760,186660,,
+DIFF_EastUR_WestDR,East UR and West DR,,,,51.494354,0.026414,540770,179215,,
+3401TH_AOD,Teddington Lock Head(AOD),,,,51.429574,-0.318329,517005,171405,,
+DIFF_TB2_TB9,Erith TG and Charlton,,,,51.494354,0.026414,540770,179215,,
+BB_EAST_DR,Barking Barrierr,,,,51.515594,0.097044,545605,181715,,
+DIFF_TB2_TB1,Silvertown and Charlton,,,,51.494354,0.026414,540770,179215,,
+5300_w2TH,Feildes Weir Ultrasonic,,,,51.758684,0.013666,539075,208585,,
+BB_WEST_UR,Barking Barrier,,,,51.515594,0.097044,545605,181715,,
+3697TH,Crane Tidal Gates FWS,,,,51.465414,-0.322425,516629,175384,,
+DIFF_WestUR_WestDR,West UR and West DR,,,,51.494354,0.026414,540770,179215,,
+4384TH,Oakbrook Close FD,,,,51.428299,0.023993,540805,171865,,
+E26231,MARDYKE SLUICE PURFLEET,,,,51.486254,0.228518,554826,178722,,
+E921,Park Farm,River Darent,Darent,Brasted,51.275499,0.095139,546236,155013,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1993-09-29
+DIFF_EastUR_EastDR,East UR and East DR,,,,51.494354,0.026414,540770,179215,,
+5304TH,Meadgate Sluices,,,,51.748222,0.004943,538505,207405,,
+5300_w1TH,Feildes Weir Ultrasonic,,,,51.758684,0.013666,539075,208585,,
+3399TH,Thames at Kingston (Backup),,,,51.415438,-0.307703,517780,169850,,
+E15370,WILLERSLEY AVENUE USGS,,,,51.443911,0.100162,546050,173750,,
+5290TH,RIVER LEE AT FEILDES WEIR (GAUGED),,,,51.76417,0.01362,539055,209195,,
+5545TH,Beam Tidal Sluice FD,,,,51.512478,0.159234,549930,181494,,
+3345TH,Bourne Hall Ponds at Ewell,,,,51.350352,-0.250864,521905,162705,,
+2866TH,Wraysbury Offtake FD,,,,51.477931,-0.504592,503947,176502,,
+E16181,Sweeps Lane,Groundwater Level,Darent,,51.391114,0.123099,547814,167925,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2004-10-01
+E16201,Riverhead,Groundwater Level,Darent,,51.286708,0.159311,550675,156389,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2005-05-01
+2854TH,Braybourne Close,,,,51.549595,-0.481215,505405,184505,,
+5291TH,Feildes Weir,,,,51.76432,0.014322,539103,209213,,
+2869TH,Stanwell Gate 2 (Airport Way),,,,51.462759,-0.511451,503505,174805,,
+0328TH,Field End Road FD,,,,51.561372,-0.380846,512335,185964,,
+4388TH,Weigall Road FD,,,,51.458131,0.014948,540085,175165,,
+4175TH,River Wandle at Morden Hall,,,,51.402267,-0.187639,526165,168585,,
+4151TH,River Wandle at Beddington Park FD,,,,51.370858,-0.151524,528765,165155,,
+4173TH,River Wandle at Ravensbury Mill,,,,51.398338,-0.183625,526455,168155,,
+4188TH,Graveney at Robinson Road,,,,51.422024,-0.174344,527035,170805,,
+4177TH,River Wandle at Merton Abbey,,,,51.41336,-0.183893,526395,169825,,
+4171TH,Watermeads FWS,,,,51.394805,-0.170396,527385,167785,,
+4171TH,Watermeads FWS,,,,51.394805,-0.170396,527385,167785,,
+2857TH,Old Mill House Penstock,,,,51.526136,-0.488324,504966,181886,,
+3803TH,Bury Farm FSA FD,,,,51.627195,-0.287063,518664,193432,,
+5323TH,Rammey Marsh Sluices,,,,51.683747,-0.010927,537605,200205,,
+3695TH,Mogden GS,,,,51.463986,-0.340257,515394,175197,,
+5321TH,David Stoker Radial Gates,,,,51.697274,-0.013228,537405,201705,,
+2858TH,Huntsmoor Weir,,,,51.523622,-0.489287,504905,181605,,
+2868TH,Stanwell Gate 1 (Lake Offtake),,,,51.467107,-0.499792,504305,175305,,
+5484TH,Loxford Sluices FD,,,,51.52639,0.091773,545205,182905,,
+2877TH,Moor Lane Offtake,,,,51.438563,-0.517993,503105,172105,,
+TQ25_86,Chipstead,Groundwater Level,Loddon,,51.282737,-0.196979,525842,155277,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2002-01-01
+3802TH,Edgwarebury FSA FD,,,,51.624739,-0.285754,518761,193161,,
+TQ35_42,Woldingham Road,Groundwater Level,London,Woldingham,51.295633,-0.06193,535222,156951,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,1999-02-01
+0321TH,Huntsmoor Weir,,,,51.523378,-0.489915,504862,181577,,
+5303TH,Richard White Radial Gates,,,,51.753614,0.01247,539008,208019,,
+E22901,STIFFORD MARDYKE GS,,,,51.5018,0.298066,559600,180600,,
+TQ36_38,Purleybury,Groundwater Level,London,Purley,51.343072,-0.103752,532170,162150,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2014-02-16
+3678TH,Mereway Road,,,,51.44708,-0.347907,514905,173305,,
+4169TH,River Wandle at Goat Bridge ,,,,51.385796,-0.16357,527885,166795,,
+5300TH,Feildes Weir Ultrasonic,,,,51.758684,0.013666,539075,208585,,
+2935TH,Norlands Lane,Meadlake Ditch,Bournes,Norlands Lane FD,51.410875,-0.515797,503320,169029,http://environment.data.gov.uk/flood-monitoring/def/core/statusSuspended,2000-01-01
+E15262,CRAYFORD GS,,,,51.449762,0.173833,551150,174550,,
+8207TH,Littleton PS,,,,51.415565105430375,-0.47762237589834694,505964,169605,,
+5544TH,Beam Auto Sluice FD,,,,51.528524,0.165429,550307,183291,,
+5559TH,Beam Tidal PS FD,,,,51.5128254994412,0.15942352065564197,549942,181533,,
+276316TP,Rainfall station,,,,51.718037,-0.217242,523250,203650,,
+000181TP,Rainfall station,,,,51.730021,0.040992,541050,205450,,
+238605TP,Rainfall station,,,,51.722932,0.136235,547650,204850,,
+244569TP,Rainfall station,,,,51.727077,-0.10539,530950,204850,,
+277407TP,Rainfall station,,,,51.686586,-0.341445,514750,199950,,
+E871,Rainfall station,,,,51.274484,0.217164,554750,155150,,
+E15720,Rainfall station,,,,51.291987,0.195058,553150,157050,,
+E15520,Rainfall station,,,,51.395266,0.296316,559850,168750,,
+E15510,Rainfall station,,,,51.307175,0.102521,546650,158550,,
+287283TP,Rainfall station,,,,51.449283,-0.224851,523450,173750,,
+247281TP,Rainfall station,,,,51.67255,-0.366544,513050,198350,,
+239374TP,Rainfall station,,,,51.575345,0.041271,541550,188250,,
+E1290,Rainfall station,,,,51.236919,-0.046806,536450,150450,,
+238777TP,Rainfall station,,,,51.736595,0.223782,553650,206550,,
+288504TP,Rainfall station,,,,51.349274,0.009666,540050,163050,,
+E15500,Rainfall station,,,,51.435174,0.135731,548550,172850,,
+239258TP,Rainfall station,,,,51.664377,0.040933,541250,198150,,
+E43041,Rainfall station,,,,51.59932,0.300821,559450,191450,,
+246424TP,Rainfall station,,,,51.501145,-0.205547,524650,179550,,
+287864TP,Rainfall station,,,,51.380452,-0.135546,529850,166250,,
+287722TP,Rainfall station,,,,51.344874,-0.103964,532150,162350,,
+239579TP,Rainfall station,,,,51.527809,0.085279,544750,183050,,
+276651TP,Rainfall station,,,,51.755019,-0.285332,518450,207650,,
+287451TP,Rainfall station,,,,51.308021,-0.16144,528250,158150,,
+247540TP,Rainfall station,,,,51.479469,-0.451216,507650,176750,,
+238097TP,Rainfall station,,,,51.556104,0.161588,549950,186350,,
+287141TP,Rainfall station,,,,51.362722,-0.209526,524750,164150,,
+290007TP,Rainfall station,,,,51.507135,0.134772,548250,180850,,
+247344TP,Rainfall station,,,,51.550032,-0.415648,509950,184650,,
+289102TP,Rainfall station,,,,51.476541,-0.017866,537750,177150,,
+245176TP,Rainfall station,,,,51.588712,-0.112596,530850,189450,,
+290200TP,Rainfall station,,,,51.280521,0.134285,548950,155650,,
+285630TP,Rainfall station,,,,51.288167,-0.337196,516050,155650,,
+246847TP,Rainfall station,,,,51.569374,-0.257694,520850,187050,,
+291477TP,Rainfall station,,,,51.458979,0.11237,546850,175450,,
+276036TP,Rainfall station,,,,51.54306,-0.500973,504050,183750,,
+291241TP,Rainfall station,,,,51.367559,0.09523,545950,165250,,
+E24952,Rainfall station,,,,51.743647,0.324082,560550,207550,,
+287946TP,Rainfall station,,,,51.415955,-0.162865,527850,170150,,
+288092TP,Rainfall station,,,,51.4214,-0.109429,531550,170850,,
+286392TP,Rainfall station,,,,51.400709,-0.284238,519450,168250,,
+238944TP,Rainfall station,,,,51.677024,0.235326,554650,199950,,
+E911,Rainfall station,,,,51.372501,0.217586,554450,166050,,
+E8290,Rainfall station,,,,51.434974,-0.353451,514550,171950,,
+290578TP,Rainfall station,,,,51.367354,0.204407,553550,165450,,
+246726TP,Rainfall station,,,,51.610639,-0.312441,516950,191550,,
+237740TP,Rainfall station,,,,51.600133,0.258985,556550,191450,,
+000180TP,Rainfall station,,,,51.618838,0.173236,550550,193350,,
+5583TH,Rainham Main FD,,,,51.500306,0.181352,551505,180186,,
+5496TH,Horseshoe Corner Tidal Sluice FD,,,,51.519084,0.132433,548049,182174,,
+2899BTH,Horton Mill FWS,,,,51.471739,-0.531201,502113,175776,,
+2897BTH,Horton Mill,Colne Brook,Colne (Lower),Horton,51.47174,-0.53123,502111,175776,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2018-11-15
+3208SE,Crawters Brook RL,,,,51.308012,-0.160866,528290,158150,,
+4230TH,Chelsea TL,,,,51.48402,-0.149732,528572,177742,,
+4410TH,Charlton TL,,,,51.494347,0.026327,540764,179214,,
+2850TH,Raleigh Drive FWS,,,,51.364392,-0.353456,514726,164101,,
+2851SO,Princes Drive FWS,,,,51.337943,-0.346895,515249,161170,,
+5518TH,Collier Row,River Rom,Beam and Ingrebourne,Romford,51.597866,0.154258,549305,190979,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2018-07-03
+2883TH,Farlows Bridge,River Colne,Colne (Lower),Iver,51.518153,-0.498245,504296,180984,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2018-11-07
+2862TH,Moor Lane,River Colne,Colne (Upper),Rickmansworth,51.635575,-0.443997,507782,194121,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2014-11-06
+TQ3635,Addington Lodge,Groundwater Level,London,New Addington,51.342256,-0.021799,537880,162210,http://environment.data.gov.uk/flood-monitoring/def/core/statusSuspended,1960-06-16
+2283TH,Farlows Bridge FWS,,,,51.518089,-0.498161,504302,180977,,
+2805TH,"Howletts Lane, Ruislip",Cannon Brook,Pinn,Howletts Lane,51.58453,-0.439448,508218,188451,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2017-07-26
+3346TH,King Charles Road FWS,,,,51.386523,-0.291294,518996,166661,,
+0350TH,Rainham Main FD,,,,51.500306,0.181352,551505,180186,,
+380002TP,Rainfall station,,,,51.571638,-0.289354,518650,187250,,
+3702SO,Otford GS,,,,51.304526,0.186288,552497,158426,,
+0323SO,Rainfall station,,,,51.246536,0.022379,541250,151650,,
+2885BTH,"Thorney Mill Road, West Drayton (Temporary)",River Colne,Colne (Lower),West Drayton,51.501136,-0.483936,505328,179112,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2021-08-25
+3345THF,Bourne Hall GS,,,,51.350352,-0.250864,521905,162705,,
+3350THF,Ewell GS,,,,51.355811,-0.255109,521595,163305,,
+3092TH,West Byfleet Bridge,Rive Ditch,Wey,West Byfleet,51.341131,-0.507986,504021,161284,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2021-10-15
+2934TH,Pyrcroft Road RL,,,,51.39117,-0.516262,503332,166837,,
+9626SE,Curtis Road Bridge RL,,,,51.234471,-0.340951,515923,149673,,
+5485TH,Seven Kings Park,Loxford Water,Rodding,Seven Kings,51.57242,0.105546,546013,188051,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2017-07-31
+540001RG,Rainfall station,,,,51.527809,0.085279,544750,183050,,
+5521TH,Ferguson Avenue RL,,,,51.589955,0.213566,553439,190222,,
+9609SO,Oxted Hythe GWL,,,,51.259298,-0.018712,538344,152991,,
+5365TH,Powys Lane FWS,,,,51.614702,-0.121138,530184,192325,,
+290320,Rainfall station,,,,51.292886,0.195101,553150,157150,,
+BB_EAST_URv,Barking Barrier East UR,,,,51.515594,0.097044,545605,181715,,
+0010,Hammersmith,Thames Tideway,London,Hammersmith,51.489988,-0.234708,522656,178260,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2023-09-14
+E15252,HAWLEY GS,,,,51.424321,0.231228,555224,171841,,
+5354TH,Enfield Golf Course FSA FD,,,,51.647276,-0.100119,531545,195985,,
+247564,Rainfall station,,,,51.40128,-0.524302,502750,167950,,
+2840TH,Gadebridge Park,River Gade,Colne (Upper),Hemel Hempstead,51.757886,-0.475121,505344,207678,http://environment.data.gov.uk/flood-monitoring/def/core/statusActive,2025-04-16
+4180TH,Connollys Mill GS,,,,51.419703,-0.181196,526565,170535,,

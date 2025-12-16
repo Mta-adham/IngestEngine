@@ -1,0 +1,6 @@
+location_name,postcode,latitude,longitude,borough,region,lsoa,msoa,crime_count,top_crime,transport_stops,bike_points,gp_practices,pharmacies,flood_stations
+Westminster,SW1A 2JR,51.5007,-0.1246,Westminster,London,Westminster 020C,Westminster 020,4209,theft-from-the-person,1,5,0,20,3
+City of London,EC2V 5AE,51.5155,-0.0922,City of London,London,City of London 001F,City of London 001,2698,other-theft,9,5,0,3,3
+Shoreditch,EC2A 3EY,51.5246,-0.078,Hackney,London,Hackney 027G,Hackney 027,2594,violent-crime,1,5,0,3,4
+Camden,NW1 7PJ,51.539,-0.1426,Camden,London,Camden 021A,Camden 021,1569,violent-crime,3,5,0,20,3
+Greenwich,SE10 8XJ,51.4769,-0.0005,Greenwich,London,Greenwich 038C,Greenwich 038,601,violent-crime,0,5,0,20,18

@@ -1,0 +1,51 @@
+street,crime_count,most_common_crime
+On or near Nightclub,544,other-theft
+On or near Theatre/concert Hall,347,theft-from-the-person
+On or near Further/higher Educational Building,245,theft-from-the-person
+On or near Shopping Area,164,shoplifting
+On or near Parking Area,156,theft-from-the-person
+On or near Bridge Street,105,violent-crime
+On or near Conference/exhibition Centre,88,theft-from-the-person
+On or near Hills Place,74,theft-from-the-person
+On or near John Prince's Street,63,theft-from-the-person
+On or near Dering Street,62,shoplifting
+On or near Hospital,62,violent-crime
+On or near Argyll Street,58,theft-from-the-person
+On or near Old Compton Street,56,theft-from-the-person
+On or near Great Windmill Street,54,theft-from-the-person
+On or near Police Station,52,violent-crime
+On or near Leicester Square,49,theft-from-the-person
+On or near A401,46,theft-from-the-person
+On or near Supermarket,44,other-theft
+On or near Market Place,42,shoplifting
+On or near Glasshouse Street,40,other-theft
+On or near Soho Street,40,theft-from-the-person
+On or near Denman Street,37,other-theft
+On or near Little Newport Street,36,theft-from-the-person
+On or near Embankment Place,35,theft-from-the-person
+On or near Dansey Place,35,theft-from-the-person
+On or near Corner House Street,34,anti-social-behaviour
+On or near Shaftesbury Avenue,33,theft-from-the-person
+On or near Strand,32,other-theft
+On or near St James's Market,31,theft-from-the-person
+On or near Addington Street,31,anti-social-behaviour
+On or near Leicester Street,31,theft-from-the-person
+On or near Macclesfield Street,29,theft-from-the-person
+On or near Southampton Buildings,29,shoplifting
+On or near Moor Street,29,other-theft
+On or near Craig's Court,28,other-theft
+On or near Hanway Place,28,theft-from-the-person
+On or near Princes Street,27,other-theft
+On or near Abingdon Street,26,violent-crime
+On or near Horse Guards Avenue,26,theft-from-the-person
+On or near Coventry Street,25,violent-crime
+On or near Little Marlborough Street,25,shoplifting
+On or near Buckingham Street,25,other-theft
+On or near Gate Street,25,other-theft
+On or near Cranbourn Street,24,theft-from-the-person
+On or near William Iv Street,24,anti-social-behaviour
+On or near Bourchier Street,24,theft-from-the-person
+On or near Gerrard Street,23,theft-from-the-person
+On or near Romilly Street,23,theft-from-the-person
+On or near Caxton Street,22,anti-social-behaviour
+On or near Ambrosden Avenue,22,shoplifting

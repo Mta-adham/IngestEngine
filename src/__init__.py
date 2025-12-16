@@ -34,7 +34,7 @@ from .joining import (
 
 from .data import (
     load_london_pois,
-    HoursScraper
+    fetch_opening_hours
 )
 
 from .catalog import (
@@ -57,7 +57,7 @@ __all__ = [
     'DatasetJoiner',
     # Data
     'load_london_pois',
-    'HoursScraper',
+    'fetch_opening_hours',
     # Catalog
     'create_complete_catalog',
 ]

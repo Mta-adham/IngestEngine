@@ -144,12 +144,14 @@ class WikidataClient:
         search_name = name.strip().lower()
         
         # SPARQL query to find item by name in London
+        # Escape quotes for SPARQL
+        escaped_name = search_name.replace('"', '\\"')
         query = f"""
         SELECT ?item WHERE {{
           ?item rdfs:label ?label .
           ?item wdt:P131* wd:Q84 .  # Located in London (Q84)
           FILTER(LANG(?label) = "en")
-          FILTER(CONTAINS(LCASE(?label), "{search_name.replace('"', '\\"')}"))
+          FILTER(CONTAINS(LCASE(?label), "{escaped_name}"))
         }}
         LIMIT 1
         """
