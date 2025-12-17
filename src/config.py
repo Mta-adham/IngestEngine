@@ -93,6 +93,34 @@ EPC_API_KEY = os.environ.get('EPC_API_KEY', '645cef978fc53f6b16da5e76ddaf653144e
 OS_API_KEY = os.environ.get('OS_API_KEY', 'vA1b2tAgw0372dME441EpgYdQb1jTHIQ')
 OS_API_SECRET = os.environ.get('OS_API_SECRET', 'Zkp8uSAt7VBQSbAo')
 
+# Mapillary (Street-level imagery)
+# Register at: https://www.mapillary.com/developer
+MAPILLARY_ACCESS_TOKEN = os.environ.get(
+    'MAPILLARY_ACCESS_TOKEN',
+    'MLY|25319304414403825|d549d2f26591873c7806baa32f43021f'
+)
+MAPILLARY_CLIENT_ID = os.environ.get('MAPILLARY_CLIENT_ID', '25319304414403825')
+
+# DVLA Vehicle Enquiry API
+# Register at: https://developer-portal.driver-vehicle-licensing.api.gov.uk/
+# Production API key
+DVLA_API_KEY = os.environ.get('DVLA_API_KEY', 'jWB2H6JTsE6mSeXkXsdwc8GADXrJSI6R35oqulQQ')
+# Test API key (for UAT environment)
+DVLA_TEST_API_KEY = os.environ.get('DVLA_TEST_API_KEY', 'uMPYKSZN0AaxR9r2kiUhW7zoBmVSpC0n8uDOET0A')
+
+# Met Office DataPoint API
+# Register at: https://www.metoffice.gov.uk/services/data/datapoint/api
+MET_OFFICE_API_KEY = os.environ.get('MET_OFFICE_API_KEY', '')
+
+# Google Maps/Places API
+# Register at: https://console.cloud.google.com/
+GOOGLE_MAPS_API_KEY = os.environ.get('GOOGLE_MAPS_API_KEY', '')
+GOOGLE_PLACES_API_KEY = os.environ.get('GOOGLE_PLACES_API_KEY', '')
+
+# Foursquare Places API
+# Register at: https://developer.foursquare.com/
+FOURSQUARE_API_KEY = os.environ.get('FOURSQUARE_API_KEY', '')
+
 # ============================================
 # API RATE LIMITS (requests per minute)
 # ============================================

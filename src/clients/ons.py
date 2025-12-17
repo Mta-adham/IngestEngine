@@ -45,7 +45,7 @@ class ONSClient(BaseAPIClient):
     # Known dataset URLs
     DATASETS = {
         'onspd': 'https://www.arcgis.com/sharing/rest/content/items/eeb3a84a-8cdf-4e7c-84be-ed8f1272c09c/data',
-        'imd_2019': 'https://assets.publishing.service.gov.uk/media/5d8b3b4bed915d0373c44f92/File_7_-_All_IoD2019_Scores__Ranks__Deciles_and_Population_Denominators.xlsx',
+        'imd_2019': 'https://opendatacommunities.org/downloads/cube-table?uri=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices',
         'lsoa_boundaries': 'https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V2/FeatureServer/0/query',
     }
     

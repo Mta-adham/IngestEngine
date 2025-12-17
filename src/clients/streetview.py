@@ -52,8 +52,14 @@ class StreetViewClient(BaseAPIClient):
             google_api_key: Google Maps API key
             mapillary_token: Mapillary access token
         """
-        self.google_api_key = google_api_key or os.environ.get('GOOGLE_MAPS_API_KEY', '')
-        self.mapillary_token = mapillary_token or os.environ.get('MAPILLARY_TOKEN', '')
+        # Load from config
+        try:
+            from src.config import GOOGLE_MAPS_API_KEY, MAPILLARY_ACCESS_TOKEN
+            self.google_api_key = google_api_key or GOOGLE_MAPS_API_KEY
+            self.mapillary_token = mapillary_token or MAPILLARY_ACCESS_TOKEN
+        except ImportError:
+            self.google_api_key = google_api_key or os.environ.get('GOOGLE_MAPS_API_KEY', '')
+            self.mapillary_token = mapillary_token or os.environ.get('MAPILLARY_ACCESS_TOKEN', '')
         
         super().__init__(
             base_url=self.GOOGLE_URL,

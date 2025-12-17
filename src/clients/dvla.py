@@ -21,6 +21,7 @@ import logging
 import os
 
 from src.clients.base_client import BaseAPIClient, APIError
+from src.config import DVLA_API_KEY, DVLA_TEST_API_KEY
 
 logger = logging.getLogger(__name__)
 
@@ -34,13 +35,17 @@ class DVLAClient(BaseAPIClient):
     - MOT history (via MOT API)
     """
     
-    BASE_URL = "https://driver-vehicle-licensing.api.gov.uk"
+    # Production URL (requires production API key)
+    PROD_URL = "https://driver-vehicle-licensing.api.gov.uk"
+    # Test/UAT URL (for test API keys)
+    TEST_URL = "https://uat.driver-vehicle-licensing.api.gov.uk"
     MOT_BASE_URL = "https://beta.check-mot.service.gov.uk"
     
     def __init__(
         self,
         api_key: Optional[str] = None,
         mot_api_key: Optional[str] = None,
+        use_test_env: bool = False,  # Default to production environment
         **kwargs
     ):
         """
@@ -50,14 +55,25 @@ class DVLAClient(BaseAPIClient):
             api_key: DVLA Vehicle Enquiry API key
             mot_api_key: MOT History API key
         """
-        self.api_key = api_key or os.environ.get('DVLA_API_KEY', '')
+        # Select appropriate API key based on environment
+        if use_test_env:
+            self.api_key = api_key or DVLA_TEST_API_KEY or os.environ.get('DVLA_TEST_API_KEY', '')
+        else:
+            self.api_key = api_key or DVLA_API_KEY or os.environ.get('DVLA_API_KEY', '')
         self.mot_api_key = mot_api_key or os.environ.get('MOT_API_KEY', '')
+        self.use_test_env = use_test_env
+        
+        # Select base URL based on environment
+        self.base_url = self.TEST_URL if use_test_env else self.PROD_URL
         
         if not self.api_key:
             logger.warning("No DVLA API key. Set DVLA_API_KEY env var.")
         
+        if use_test_env:
+            logger.info("Using DVLA TEST environment (UAT)")
+        
         super().__init__(
-            base_url=self.BASE_URL,
+            base_url=self.base_url,
             api_key=self.api_key,
             rate_limit_rpm=100,
             **kwargs
@@ -92,7 +108,7 @@ class DVLAClient(BaseAPIClient):
         
         return self.post(
             '/vehicle-enquiry/v1/vehicles',
-            json={'registrationNumber': registration}
+            json_data={'registrationNumber': registration}
         )
     
     def get_vehicle_summary(self, registration: str) -> Dict:
